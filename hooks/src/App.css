@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+
+
+.listContainer{
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.list{
+  border:1px solid yellow;
+  flex: 1 auto;
+  width: 45%;
+}
